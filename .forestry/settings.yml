@@ -18,6 +18,10 @@ sections:
   match: "*.md"
   templates:
   - page
+- type: document
+  path: docs/contact.md
+  label: Contact
+  match: "**/*"
 upload_dir: docs/.vuepress/public/assets/img
 public_path: "/assets/img"
 front_matter_path: ''
