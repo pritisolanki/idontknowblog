@@ -1,9 +1,10 @@
 ---
-title: Leaving Las Vegas
-date: 2019-5-6
+title: Content Ease of Use
+date: 2019-05-06 04:00:00 +0000
 tags:
 - Content
-author: John Doe
+- ContentManagementSystem
+author: Priti Solanki
 featuredimg: https://images.unsplash.com/photo-1582996091947-7c50ca745bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80
 summary: We find that Nature has made many wonderful provisions.
 
