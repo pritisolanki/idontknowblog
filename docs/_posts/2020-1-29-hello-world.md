@@ -1,7 +1,9 @@
 ---
 title: 'Structured Content '
 date: 2022-12-22 19:00:00 +0000
-tags: []
+tags:
+- ContentManagementSystem
+- " StructuredContent"
 author: Priti Solanki
 featuredimg: "/assets/img/5292744.jpg"
 summary: Checklist for structured content
