@@ -1,10 +1,11 @@
 ---
 title: Extensibility Content
 date: 2020-01-01 23:00:00 +0000
-tags: []
+tags:
+- ContentManagementSystem
 author: Priti Solanki
 featuredimg: "/assets/img/43057.jpg"
-summary: Journalism is the production and distribution of reports on events.
+summary: quick checklist for future proof content
 
 ---
 How is extensibility in future-proof content to be understood?  

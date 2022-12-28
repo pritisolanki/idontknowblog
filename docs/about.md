@@ -5,4 +5,7 @@ description: A simple page about this site
 ---
 # About
 
-This VuePress theme was imported in [Forestry](https:://forestry.io), a git-backed headless CMS.
+Sample setup!!
+
+[UI icons and images created by Freepik - Flaticon](https://www.flaticon.com/free-icons/ui)
+

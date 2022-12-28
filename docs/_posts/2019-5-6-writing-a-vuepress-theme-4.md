@@ -6,7 +6,7 @@ tags:
 - ContentManagementSystem
 author: Priti Solanki
 featuredimg: https://images.unsplash.com/photo-1582996091947-7c50ca745bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80
-summary: We find that Nature has made many wonderful provisions.
+summary: Ease of use via future proof content
 
 ---
 💡 What is the "Ease of use" aspect of future-proof content?  

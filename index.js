@@ -7,7 +7,7 @@ module.exports = (themeConfig) => {
    * Default theme configuration
    */
   themeConfig = Object.assign(themeConfig, {
-    logo: '/assets/img/logo.png',
+    logo: '/assets/img/content.png',
     nav: themeConfig.nav || [
       {
         text: 'Blog',
@@ -16,6 +16,10 @@ module.exports = (themeConfig) => {
       {
         text: 'Tags',
         link: '/tag/',
+      },
+      {
+        text: 'About',
+        link: '/about',
       },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
@@ -152,6 +156,5 @@ module.exports = (themeConfig) => {
       }
     },
   }
-
   return config
 }
