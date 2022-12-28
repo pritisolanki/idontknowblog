@@ -2,7 +2,7 @@ const removeMd = require('remove-markdown')
 const path = require('path')
 const pick = require('lodash/pick')
 
-module.exports = themeConfig => {
+module.exports = (themeConfig) => {
   /**
    * Default theme configuration
    */
@@ -137,6 +137,7 @@ module.exports = themeConfig => {
         return
       }
       if (themeConfig.summary) {
+        console.log(themeConfig.summary)
         pageCtx.summary =
           removeMd(
             strippedContent
