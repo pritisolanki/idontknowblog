@@ -7,6 +7,5 @@ description: A simple page about this site
 
 Sample setup!!
 
-(UI icons created by Freepik - Flaticon)\[[https://www.flaticon.com/free-icons/ui](https://www.flaticon.com/free-icons/ui "https://www.flaticon.com/free-icons/ui")\]
+[UI icons and images created by Freepik - Flaticon](https://www.flaticon.com/free-icons/ui)
 
-\[UI icons created by Freepik - Flaticon\]([https://www.flaticon.com/free-icons/ui](https://www.flaticon.com/free-icons/ui "https://www.flaticon.com/free-icons/ui"))

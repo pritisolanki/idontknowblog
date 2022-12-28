@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Content Entry',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
-  logo: './assets/img/logo.png',
+  description: 'content',
+  logo: './assets/img/content.png',
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
@@ -27,12 +27,12 @@ module.exports = {
           link: '#',
         },
         {
-          type: 'facebook',
-          link: '#',
+          type: 'Ui icons created by Freepik - Flaticon',
+          link: 'https://www.flaticon.com/free-icons/ui',
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          link: 'https://github.com/pritisolanki/mediumish-vuepress-blog-theme',
         },
         {
           type: 'gitlab',
@@ -60,7 +60,7 @@ module.exports = {
         },
         {
           type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
+          link: 'https://twitter.com/pritisolanki',
         },
         {
           type: 'web',
