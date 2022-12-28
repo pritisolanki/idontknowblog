@@ -7,4 +7,6 @@ description: A simple page about this site
 
 Sample setup!!
 
-<a href="[https://www.flaticon.com/free-icons/ui](https://www.flaticon.com/free-icons/ui "https://www.flaticon.com/free-icons/ui")" title="ui icons">Ui icons created by Freepik - Flaticon</a>
+(UI icons created by Freepik - Flaticon)\[[https://www.flaticon.com/free-icons/ui](https://www.flaticon.com/free-icons/ui "https://www.flaticon.com/free-icons/ui")\]
+
+\[UI icons created by Freepik - Flaticon\]([https://www.flaticon.com/free-icons/ui](https://www.flaticon.com/free-icons/ui "https://www.flaticon.com/free-icons/ui"))
